@@ -1,0 +1,16 @@
+{
+  "name": "localbitcoins-lib",
+  "version": "0.0.1",
+  "description": "Localbitcoins API Node Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin",
+    "localbitcoins",
+    "library"
+  ],
+  "author": "Colin Lai <baserunner.cl@gmail.com> (http://baserunner-cl.github.io)",
+  "license": "MIT"
+}
