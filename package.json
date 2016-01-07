@@ -11,6 +11,10 @@
     "localbitcoins",
     "library"
   ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/baserunner-cl/localbitcoins-lib"
+  },
   "author": "Colin Lai <baserunner.cl@gmail.com> (http://baserunner-cl.github.io)",
   "license": "MIT"
 }
