@@ -1,3 +1,8 @@
-exports.printMessage = function() {
-  console.log("Localbitcoins API Node Library - Work In Progress");
-}
+'use strict';
+
+var crypto = require("crypto");
+var https = require("https");
+
+module.exports = {
+  LocalBitcoinsContext: require('./lib/context.js')
+};
